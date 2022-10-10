@@ -1,6 +1,7 @@
 package variant_A.task_1;
 
 abstract class  Book implements Publication{
+
      private String name;
      private int price;
      private int amaunt;
